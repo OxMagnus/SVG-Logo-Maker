@@ -1,0 +1,22 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/OxMagnus/SVG-Logo-Maker"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.4.3"
+    },
+    "scripts": {
+        "test": "jest"
+      }
+    }
